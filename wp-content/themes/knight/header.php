@@ -58,9 +58,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 col-xs-12 pull-right icon-search">
-                        <?php get_search_form(); ?>
-                    </div>
                 </div>
             </div>
         </div>
