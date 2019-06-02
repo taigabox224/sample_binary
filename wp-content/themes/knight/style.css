@@ -4474,3 +4474,9 @@ body .site button[aria-label="Mute"]:focus {
     filter: alpha(opacity=75);
     opacity: .75;
 }
+
+/*追加CSS以下記述*/
+
+.marker-yellow {
+    background: linear-gradient(transparent 60%, #FAD047 60%);
+}
