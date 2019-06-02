@@ -1,0 +1,1178 @@
+# Translation of Themes - Knight in Japanese
+# This file is distributed under the same license as the Themes - Knight package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-12 02:23:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Knight\n"
+
+#. Theme Name of the theme
+msgid "Knight"
+msgstr "Knight"
+
+#: inc/widgets/widgets.php:393
+msgid "Dribbble URL:"
+msgstr "Dribbble URL:"
+
+#: inc/widgets/widgets.php:378
+msgid "WordPress URL:"
+msgstr "WordPress URL:"
+
+#: inc/widgets/widgets.php:368
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+#: inc/widgets/widgets.php:358
+msgid "Twitch URL:"
+msgstr "Twitch URL:"
+
+#: inc/widgets/widgets.php:353
+msgid "Tumblr URL:"
+msgstr "Tumblr URL:"
+
+#: inc/widgets/widgets.php:348
+msgid "Snapchat URL:"
+msgstr "Snapchat URL:"
+
+#: inc/widgets/widgets.php:343
+msgid "Skype URL:"
+msgstr "Skype URL:"
+
+#: inc/widgets/widgets.php:338
+msgid "Reddit URL:"
+msgstr "Reddit URL:"
+
+#: inc/widgets/widgets.php:333
+msgid "Pinterest URL:"
+msgstr "Pinterest URL:"
+
+#: inc/widgets/widgets.php:328
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: inc/widgets/widgets.php:205 inc/widgets/widgets.php:313
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: inc/widgets/widgets.php:200 inc/widgets/widgets.php:308
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: inc/template-tags.php:62
+msgid " %1$s"
+msgstr " %1$s"
+
+#: inc/customizer/slider.php:55
+msgid "6"
+msgstr "6"
+
+#: inc/customizer/slider.php:54
+msgid "5"
+msgstr "5"
+
+#: inc/customizer/customizer.php:43
+msgid "Knight Pro"
+msgstr "Knight Pro"
+
+#. translators: 1: plugin name(s).
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ推奨プラグインは、現在有効化されていません: %1$s"
+
+#. translators: 1: plugin name(s).
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ必須プラグインは、現在有効化されていません: %1$s"
+
+#. translators: 1: plugin name(s).
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "利用可能な更新があります: %1$s"
+
+#. translators: 1: plugin name(s).
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは以下のプラグインを推奨しています: %1$s."
+
+#. translators: 1: plugin name(s).
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが必要です: %1$s"
+
+#: inc/common-functions-hooks.php:357
+msgid "Social Share With Floating Bar"
+msgstr "フローティングバーのソーシャル共有"
+
+#: template-parts/content.php:82 template-parts/content-single.php:43
+#: template-parts/content-quote.php:45 template-parts/content-quote.php:59
+#: template-parts/content-page.php:37
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものはありませんでした。他のキーワードでもう一度お試しください。"
+
+#: template-parts/content-none.php:17
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-gallery.php:22 template-parts/content-audio.php:47
+#: template-parts/content-video.php:38
+msgid "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+msgstr "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+
+#: single.php:33
+msgid "Previous post:"
+msgstr "過去の投稿:"
+
+#: single.php:31
+msgid "Next post:"
+msgstr "次の投稿:"
+
+#: inc/widgets/widgets.php:298
+msgid "Displays Social share."
+msgstr "ソーシャル共有を表示します。"
+
+#: inc/widgets/widgets.php:196
+msgid "Author Image:"
+msgstr "投稿者画像:"
+
+#: inc/widgets/widgets.php:186
+msgid "Name:"
+msgstr "名前:"
+
+#: inc/widgets/widgets.php:176
+msgid "Displays authors details in post."
+msgstr "投稿に投稿者の詳細を表示します。"
+
+#: inc/widgets/widgets.php:66
+msgid "Number of Posts:"
+msgstr "投稿の数:"
+
+#: inc/widgets/widgets.php:63
+msgid "All Categories"
+msgstr "カテゴリー一覧"
+
+#: inc/widgets/widgets.php:61
+msgid "Select Category:"
+msgstr "カテゴリーを選択:"
+
+#: inc/widgets/widgets.php:56 inc/widgets/widgets.php:181
+#: inc/widgets/widgets.php:303
+msgid "Title:"
+msgstr "タイトル:"
+
+#: inc/widgets/widgets.php:51
+msgid "Displays post form selected category specific for popular post in sidebars."
+msgstr "サイドバーの人気の投稿に特定のカテゴリーからの投稿を表示します。"
+
+#: inc/widgets/widget-base-class.php:298
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widget-base-class.php:287
+msgid "Choose Image"
+msgstr "画像の選択"
+
+#: inc/widgets/widget-base-class.php:286
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: inc/widgets/widget-base-class.php:285
+msgid "Upload"
+msgstr "アップロード"
+
+#: inc/widget-init.php:45
+msgid "Footer Column Three"
+msgstr "フッターカラム3"
+
+#: inc/widget-init.php:34
+msgid "Footer Column Two"
+msgstr "フッターカラム2"
+
+#: inc/widget-init.php:26 inc/widget-init.php:36 inc/widget-init.php:47
+msgid "Displays items on footer section."
+msgstr "フッターセクションに項目を表示します。"
+
+#: inc/widget-init.php:24
+msgid "Footer Column One"
+msgstr "フッターカラム1"
+
+#: inc/widget-init.php:12
+msgid "Add widgets here."
+msgstr "ここにウィジェットを追加。"
+
+#: inc/widget-init.php:10
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: inc/template-tags.php:80
+msgid "Tagged: %1$s"
+msgstr "タグ: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:60 inc/template-tags.php:78
+msgid "/"
+msgstr "/"
+
+#: inc/template-tags.php:35
+msgid "By %s"
+msgstr "作成者: %s"
+
+#: inc/hooks/layout-meta/layout-meta.php:130
+msgid "No Image"
+msgstr "画像なし"
+
+#: inc/hooks/layout-meta/layout-meta.php:117
+msgid "Single Page/Post Image Layout"
+msgstr "個別ページ / 投稿の画像レイアウト"
+
+#: inc/hooks/layout-meta/layout-meta.php:99
+msgid "Single Page/Post Layout"
+msgstr "個別ページ / 投稿のレイアウト"
+
+#: inc/hooks/layout-meta/layout-meta.php:73
+msgid "Layout Settings"
+msgstr "レイアウト設定"
+
+#: inc/hooks/layout-meta/layout-meta.php:23
+msgid "Single Page/Post Settings"
+msgstr "個別ページ / 投稿設定"
+
+#: inc/hooks/header-inner-page.php:43
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/hooks/header-inner-page.php:38
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#: inc/customizer/theme-option.php:320
+msgid "Enable Preloader"
+msgstr "事前読み込みを有効化"
+
+#: inc/customizer/theme-option.php:303
+msgid "Preloader Options"
+msgstr "プレースホルダー設定"
+
+#: inc/customizer/theme-option.php:294
+msgid "Advanced"
+msgstr "上級者向け"
+
+#: inc/customizer/theme-option.php:293
+msgid "Simple"
+msgstr "シンプル"
+
+#: inc/customizer/theme-option.php:292
+msgid "Disabled"
+msgstr "無効"
+
+#: inc/customizer/theme-option.php:287
+msgid "Breadcrumb Type"
+msgstr "パンくずリストの形式"
+
+#: inc/customizer/theme-option.php:270
+msgid "Breadcrumb Options"
+msgstr "パンくずリスト設定"
+
+#: inc/customizer/theme-option.php:228
+msgid "Footer Copyright Text"
+msgstr "フッター著作権テキスト"
+
+#: inc/customizer/theme-option.php:210
+msgid "Disable footer sidebar area"
+msgstr "フッターサイドバーエリアを無効化"
+
+#: inc/customizer/theme-option.php:205
+msgid "Number Of Footer Widget"
+msgstr "フッターウィジェットの数"
+
+#: inc/customizer/theme-option.php:188
+msgid "Footer Options"
+msgstr "フッター設定"
+
+#: inc/customizer/theme-option.php:178
+msgid "Infinite Scroll Ajax Load"
+msgstr "無限スクロール Ajax 読み込み"
+
+#: inc/customizer/theme-option.php:177
+msgid "Numeric"
+msgstr "数字ベース"
+
+#: inc/customizer/theme-option.php:176
+msgid "Default (Older / Newer Post)"
+msgstr "デフォルト (過去の / 新しい投稿)"
+
+#: inc/customizer/theme-option.php:172
+msgid "Pagination Type"
+msgstr "ページ送りのタイプ"
+
+#: inc/customizer/theme-option.php:155
+msgid "Pagination Options"
+msgstr "ページ送り設定"
+
+#: inc/customizer/theme-option.php:145
+msgid "No image"
+msgstr "画像なし"
+
+#: inc/customizer/theme-option.php:144
+#: inc/hooks/layout-meta/layout-meta.php:124
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer/theme-option.php:143
+#: inc/hooks/layout-meta/layout-meta.php:127
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer/theme-option.php:142
+#: inc/hooks/layout-meta/layout-meta.php:121
+msgid "Full"
+msgstr "全体"
+
+#: inc/customizer/theme-option.php:139
+msgid "Single Post/Page Image Allocation"
+msgstr "個別投稿・ページの画像割り当て"
+
+#: inc/customizer/theme-option.php:120
+msgid "Set Global Archive Length"
+msgstr "アーカイブ全般の長さを設定"
+
+#: inc/customizer/theme-option.php:103
+msgid "Read More Button Text"
+msgstr "「続きを読む」ボタンテキスト"
+
+#: inc/customizer/theme-option.php:86 inc/hooks/layout-meta/layout-meta.php:109
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customizer/theme-option.php:85 inc/hooks/layout-meta/layout-meta.php:103
+msgid "Content - Primary Sidebar"
+msgstr "コンテンツ - メインサイドバー"
+
+#: inc/customizer/theme-option.php:84 inc/hooks/layout-meta/layout-meta.php:106
+msgid "Primary Sidebar - Content"
+msgstr "メインサイドバー - コンテンツ"
+
+#: inc/customizer/theme-option.php:81
+msgid "Global Layout"
+msgstr "全般レイアウト"
+
+#: inc/customizer/theme-option.php:64
+msgid "Boxed"
+msgstr "ボックス"
+
+#: inc/customizer/theme-option.php:63
+msgid "Full Width"
+msgstr "全幅"
+
+#: inc/customizer/theme-option.php:60
+msgid "Site Layout"
+msgstr "サイトレイアウト"
+
+#: inc/customizer/theme-option.php:43
+msgid "Enable Banner Overlay"
+msgstr "バナーのオーバーレイを有効化"
+
+#: inc/customizer/theme-option.php:26
+msgid "Layout Management"
+msgstr "レイアウト管理"
+
+#: inc/customizer/theme-option.php:17
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: inc/customizer/slider.php:113
+msgid "Removing text will disable read more on the slider"
+msgstr "テキストを削除するとスライダーの「続きを読む」が無効になります"
+
+#: inc/customizer/slider.php:112
+msgid "Read More Text"
+msgstr "「続きを読む」テキスト"
+
+#: inc/customizer/slider.php:92
+msgid "Category for slider"
+msgstr "スライダーのカテゴリー"
+
+#: inc/customizer/slider.php:53
+msgid "4"
+msgstr "4"
+
+#: inc/customizer/theme-option.php:213 inc/customizer/slider.php:52
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/theme-option.php:212 inc/customizer/slider.php:51
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/theme-option.php:211 inc/customizer/slider.php:50
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/slider.php:47
+msgid "Select no of slider"
+msgstr "スライダーの数を選択"
+
+#: inc/customizer/slider.php:30
+msgid "Enable Slider"
+msgstr "スライダーを有効化"
+
+#: inc/customizer/slider.php:13
+msgid "Slider Options"
+msgstr "スライダー設定"
+
+#: inc/customizer/customizer.php:44
+msgid "Upgrade To Pro"
+msgstr "Pro にアップグレード"
+
+#: inc/customizer/core/default.php:44
+msgid "Continue Reading"
+msgstr "続きを読む"
+
+#: inc/customizer/core/default.php:29
+msgid "Read More"
+msgstr "続きを読む"
+
+#: inc/common-functions-hooks.php:352
+msgid "One Click Demo Import"
+msgstr "ワンクリックのデモインポート"
+
+#: inc/common-functions-hooks.php:325
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/common-functions-hooks.php:109
+msgid "Load More Posts"
+msgstr "さらに投稿を読み込む"
+
+#: header.php:106 functions.php:67
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:143
+msgid "Theme Demo Content"
+msgstr "テーマデモのコンテンツ"
+
+#: functions.php:68
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+#: footer.php:213
+msgid "Theme: %1$s by %2$s"
+msgstr "Theme: %1$s by %2$s"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:50 comments.php:70
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:49 comments.php:69
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:47 comments.php:67
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」に%1$s件のコメントがあります"
+
+#. translators: %s: post title
+#: comments.php:33
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "「%s」に1件のコメントがあります"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:801
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:772
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1211
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j日"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:770
+#: assets/libraries/breadcrumbs/breadcrumbs.php:800
+#: assets/libraries/breadcrumbs/breadcrumbs.php:828
+#: assets/libraries/breadcrumbs/breadcrumbs.php:856
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1203
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:753
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:735
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:717
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:262
+msgid "Week %s"
+msgstr "%s週"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:260
+msgid "Minute %s"
+msgstr "%s分"
+
+#. Translators: %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:258
+msgid "Page %s"
+msgstr "ページ %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:256
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; の検索結果"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:254
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:253
+msgid "404 Not Found"
+msgstr "404: 見つかりませんでした"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:252
+msgid "Home"
+msgstr "ホーム"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:251
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:250
+msgid "Browse:"
+msgstr "続きを読む:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s のインストールを完了しました。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール、有効化しています %1$s (%2$d/%3$d)"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#. translators: 1: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3509
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#. translators: 1: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3509
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s を正常にインストールし、有効化しました。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#. translators: 1: plugin name, 2: error message.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "<strong>%2$s</strong>%1$s のインストール中にエラーが発生しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインを更新中 (%2$d/%3$d)"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現時点でインストールできるプラグインはありません。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s 有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s 更新"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s インストール"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "ステータス"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能なプラグインがありません。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低要求バージョン:"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストールしたバージョン:"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#. translators: 1: number of plugins.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "使用中 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "インストール済み、停止中"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "プリパッケージ"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress 公式ディレクトリ"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#. translators: %s: version number
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:1121
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルは1つのフォルダ内にパッケージされていません。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:934
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには、指定されたスラッグのフォルダがないため、名前の変更ができませんでした。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能な必須・推奨プラグインがあります。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+#. translators: 1: dashboard link.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、有効化しました。%1$s"
+
+#. translators: 1: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#. translators: 1: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:388
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下のプラグインを有効化しました:"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:387
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:386
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:827
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:2533
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#. translators: %s: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新中: %s"
+
+#. translators: %s: plugin name.
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try going back to Homepage or a search?"
+msgstr "ここには何も見つかりませんでした。以下から検索してみてください。"
+
+#: 404.php:18
+msgid "404 page not found"
+msgstr "404 ページが見つかりません"
+
+#: inc/template-tags.php:42
+msgid " %s"
+msgstr " %s"
+
+#: inc/customizer/theme-option.php:261
+msgid "Footer Background Color"
+msgstr "フッターの背景色"
+
+#: inc/customizer/slider.php:262
+msgid "Category for You May Like"
+msgstr "おすすめ用のカテゴリー"
+
+#: inc/customizer/slider.php:308
+msgid "Select no of post to display (max-15)"
+msgstr "表示する投稿数を選択 (最大15)"
+
+#: inc/customizer/core/default.php:34
+msgid "You may also like"
+msgstr "おすすめ"
+
+#: inc/customizer/slider.php:246
+msgid "Section Title"
+msgstr "セクションのタイトル"
+
+#: inc/customizer/color-typo.php:28
+msgid "Color Options"
+msgstr "色設定"
+
+#: inc/customizer/color-typo.php:18
+msgid "Fonts & Typography"
+msgstr "フォントとタイポグラフィ"
+
+#: inc/customizer/color-typo.php:9
+msgid "General settings"
+msgstr "一般設定"
+
+#: inc/customizer/slider.php:72
+msgid "Select no words of slider"
+msgstr "スライダーの単語数を選択"
+
+#. translators: 1: plugin name(s).
+#: assets/libraries/TGM-Plugin/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大限の互換性を確保するため、以下のプラグインを最新バージョンに更新する必要があります: %1$s"
+
+#: inc/common-functions-hooks.php:508
+msgid "All"
+msgstr "すべて"
+
+#: inc/common-functions-hooks.php:593
+msgid "expand child menu"
+msgstr "サブメニューを展開"
+
+#: inc/customizer/color-typo.php:45
+msgid "Primary Color"
+msgstr "メインカラー"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-quote.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:49
+msgid "Edit %s"
+msgstr "編集 %s"
+
+#: inc/widgets/widgets.php:388
+msgid "FourSquare URL:"
+msgstr "Foursquare URL:"
+
+#: inc/widgets/widgets.php:383
+msgid "Github URL:"
+msgstr "GitHub URL:"
+
+#: inc/widgets/widgets.php:373
+msgid "Whatsapp URL:"
+msgstr "WhatsApp URL:"
+
+#: inc/widgets/widgets.php:363
+msgid "Youtube URL:"
+msgstr "YouTube URL:"
+
+#: inc/widgets/widgets.php:323
+msgid "Linkedin URL:"
+msgstr "LinkedIn URL:"
+
+#: inc/widgets/widgets.php:210 inc/widgets/widgets.php:318
+msgid "Googleplus URL:"
+msgstr "Google+ URL:"
+
+#: inc/customizer/theme-option.php:288
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr "上級者向け: %1$sBreadcrumb NavXT%2$s プラグインが必要です"
+
+#: inc/customizer/slider.php:93
+msgid "Select category to be shown on tab "
+msgstr "タブに表示するカテゴリーを選択 "
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:771
+#: assets/libraries/breadcrumbs/breadcrumbs.php:829
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1207
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "n月"
+
+#: inc/common-functions-hooks.php:633
+msgid "You May Also Like"
+msgstr "おすすめ"
+
+#: inc/widgets/widgets.php:399
+msgid "Knight: Social Widget"
+msgstr "Knight: ソーシャルウィジェット"
+
+#: inc/widgets/widgets.php:216
+msgid "Knight: Author Widget"
+msgstr "Knight: 投稿者ウィジェット"
+
+#: inc/widgets/widgets.php:191
+msgid "Discription:"
+msgstr "説明:"
+
+#: inc/widgets/widgets.php:75
+msgid "Knight: Recent Post"
+msgstr "Knight: 最近の投稿"
+
+#: inc/hooks/layout-meta/layout-meta.php:92
+msgid "Disable Featured Image As Banner Image"
+msgstr "アイキャッチ画像をバナー画像として使わない"
+
+#: inc/hooks/layout-meta/layout-meta.php:83
+msgid "Choose a color for your Post Text."
+msgstr "投稿のテキスト色を選択してください。"
+
+#: inc/hooks/layout-meta/layout-meta.php:77
+msgid "Choose a color for your Post Backgorund."
+msgstr "投稿の背景色を選択してください。"
+
+#: inc/customizer/theme-option.php:244
+msgid "Enable Copyright Footer Credit"
+msgstr "著作権フッタークレジットを有効化"
+
+#: inc/customizer/theme-option.php:179
+msgid "Button Click Ajax Load"
+msgstr "ボタンクリック Ajax 読み込み"
+
+#: inc/customizer/core/default.php:49
+msgid "Copyright All right reserved."
+msgstr "Copyright All right reserved."
+
+#: inc/customizer/color-typo.php:157
+msgid "Title Heading Size 2"
+msgstr "タイトル見出しサイズ2"
+
+#: inc/customizer/color-typo.php:138
+msgid "Title Heading Size 1"
+msgstr "タイトル見出しサイズ1"
+
+#: inc/customizer/color-typo.php:119
+msgid "General Text Size"
+msgstr "一般テキストサイズ"
+
+#: inc/customizer/color-typo.php:100
+msgid "Secondary Font"
+msgstr "サブフォント"
+
+#: inc/customizer/color-typo.php:82
+msgid "Primary Font"
+msgstr "メインフォント"
+
+#: inc/customizer/color-typo.php:63
+msgid "Secondary Color"
+msgstr "サブカラー"
+
+#: inc/customizer/slider.php:213
+msgid "You May Like Section Options"
+msgstr "おすすめセクションのオプション"
+
+#: inc/customizer/slider.php:326
+msgid "Category for Footer Pinned Post"
+msgstr "フッター固定投稿のカテゴリー"
+
+#: inc/customizer/slider.php:275
+msgid "Footer Pinned Post Section Options"
+msgstr "フッターの固定投稿セクションのオプション"
+
+#: inc/customizer/slider.php:199
+msgid "URL For Intro Section "
+msgstr "イントロセクションの URL "
+
+#: inc/customizer/slider.php:187
+msgid "Upload Image For Intro Section "
+msgstr "イントロセクションの画像をアップロード "
+
+#: inc/customizer/slider.php:173
+msgid "Title For Intro Section "
+msgstr "イントロセクションのタイトル "
+
+#: inc/customizer/slider.php:157
+msgid "Enable Intro Section"
+msgstr "イントロセクションを有効化"
+
+#: inc/customizer/slider.php:141
+msgid "Intro Section Options"
+msgstr "イントロセクションオプション"
+
+#: inc/customizer/slider.php:130
+msgid "Text Size For Slider Title"
+msgstr "スライダータイトルの文字サイズ"
+
+#. Theme URI of the theme
+msgid "https://www.themeinwp.com/theme/knight"
+msgstr "https://www.themeinwp.com/theme/knight"
+
+#. Author URI of the theme
+msgid "https://www.themeinwp.com"
+msgstr "https://www.themeinwp.com"
+
+#. Author of the theme
+msgid "ThemeInWP"
+msgstr "ThemeInWP"
